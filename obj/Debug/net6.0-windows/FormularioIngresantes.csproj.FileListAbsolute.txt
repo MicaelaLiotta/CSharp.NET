@@ -1,0 +1,112 @@
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\PracticaForm - copia\PracticaForm\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm - copia\2doParcial\2doParcial\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.AssemblyReference.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\2doParcial\2doParcial\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\Melina\C#\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\Melina\C#\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\Melina\C#\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\Melina\C#\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\Melina\C#\2doParcial\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\Melina\C#\2doParcial\2doParcial\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\aleja\OneDrive\Escritorio\2doParcial final\2doParcial\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.exe
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.deps.json
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.runtimeconfig.json
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.AssemblyReference.cache
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.MenuForm.resources
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\Formulario2doParcial.RegistroForm.resources
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.GenerateResource.cache
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfoInputs.cache
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.AssemblyInfo.cs
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.dll
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\refint\FormularioIngresantes.dll
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.pdb
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.genruntimeconfig.cache
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\ref\FormularioIngresantes.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\MICAELA\source\repos\2doParcial\obj\Debug\net6.0-windows\FormularioIngresantes.csproj.CopyComplete
+C:\Users\MICAELA\source\repos\2doParcial\bin\Debug\net6.0-windows\FormularioIngresantes.dll.config

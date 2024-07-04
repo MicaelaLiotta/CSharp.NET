@@ -1,0 +1,27 @@
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\bin\Debug\net6.0-windows\Parcial2-Programacion.exe
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\bin\Debug\net6.0-windows\Parcial2-Programacion.deps.json
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\bin\Debug\net6.0-windows\Parcial2-Programacion.runtimeconfig.json
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\bin\Debug\net6.0-windows\Parcial2-Programacion.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\bin\Debug\net6.0-windows\Parcial2-Programacion.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.csproj.AssemblyReference.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\PracticaForm.Form1.resources
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.csproj.GenerateResource.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.AssemblyInfoInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.AssemblyInfo.cs
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.csproj.CoreCompileInputs.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\refint\Parcial2-Programacion.dll
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.pdb
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.genruntimeconfig.cache
+C:\Users\MICAELA\OneDrive\Escritorio\repos VisualStudio\PracticaForm\obj\Debug\net6.0-windows\ref\Parcial2-Programacion.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2Programacion.MenuForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\PracticaForm.RegistroForm.resources
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.csproj.GenerateResource.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.AssemblyInfoInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.AssemblyInfo.cs
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\refint\Parcial2-Programacion.dll
+C:\Users\aleja\OneDrive\Escritorio\PracticaForm\PracticaForm\obj\Debug\net6.0-windows\Parcial2-Programacion.pdb

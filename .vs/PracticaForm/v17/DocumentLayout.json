@@ -1,0 +1,279 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|c:\\users\\aleja\\onedrive\\escritorio\\2doparcial final\\2doparcial\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:menuform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\registroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:registroform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:funciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\formularioingresantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|FormularioIngresantes.csproj|solutionrelative:formularioingresantes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:ingresante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:registroform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|2doParcial.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|2doParcial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4F881A35-82A6-4484-97C1-B2AFBBDB8D19}|PracticaForm.csproj|solutionrelative:menuform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MenuForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.Designer.cs",
+              "RelativeDocumentMoniker": "MenuForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.Designer.cs",
+              "RelativeToolTip": "MenuForm.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T02:58:46.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "MenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:05:34.165Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegistroForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "RegistroForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs [Design]",
+              "RelativeToolTip": "RegistroForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:05:37.731Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RegistroForm.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "RegistroForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeToolTip": "RegistroForm.cs",
+              "ViewState": "AQIAAJ4AAAAAAAAAAAAAAKsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:05:37.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Ingresante.cs",
+              "RelativeDocumentMoniker": "Ingresante.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Ingresante.cs",
+              "RelativeToolTip": "Ingresante.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAkwDIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T03:05:26.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RegistroForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.Designer.cs",
+              "RelativeDocumentMoniker": "RegistroForm.Designer.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.Designer.cs",
+              "RelativeToolTip": "RegistroForm.Designer.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAowBUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T03:01:13.268Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T13:40:15.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Funciones.cs",
+              "RelativeDocumentMoniker": "Funciones.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Funciones.cs",
+              "RelativeToolTip": "Funciones.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAwwFAAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T01:04:05.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Funciones.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Funciones.cs",
+              "RelativeDocumentMoniker": "Funciones.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Funciones.cs",
+              "RelativeToolTip": "Funciones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:21:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FormularioIngresantes.csproj",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\FormularioIngresantes.csproj",
+              "RelativeDocumentMoniker": "FormularioIngresantes.csproj",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\FormularioIngresantes.csproj",
+              "RelativeToolTip": "FormularioIngresantes.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-25T02:32:07.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MenuForm.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeToolTip": "MenuForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:45:05.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RegistroForm.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "RegistroForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeToolTip": "RegistroForm.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAwwF8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:56:27.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Ingresante.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Ingresante.cs",
+              "RelativeDocumentMoniker": "Ingresante.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Ingresante.cs",
+              "RelativeToolTip": "Ingresante.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:20:45.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegistroForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\RegistroForm.cs",
+              "RelativeDocumentMoniker": "RegistroForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\PracticaForm - copia\\PracticaForm - copia\\PracticaForm\\RegistroForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\PracticaForm - copia\\PracticaForm - copia\\PracticaForm\\RegistroForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T18:14:15.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T02:34:12.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MenuForm.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\2doParcial final\\2doParcial\\MenuForm.cs",
+              "RelativeDocumentMoniker": "MenuForm.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\PracticaForm - copia\\PracticaForm - copia\\PracticaForm\\MenuForm.cs [Dise\u00F1o]",
+              "RelativeToolTip": "..\\..\\PracticaForm - copia\\PracticaForm - copia\\PracticaForm\\MenuForm.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T01:43:00.157Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4 @@
+Micaela Liotta|Garibaldi|20-39123865-1|Femenino|Argentina|28|JavaScript
+Micaela Liotta|Garibaldi|20-39123865-1|Femenino|Argentina|28|JavaScript
+Alejandro|guemes|20-35463280-3|Masculino|Argentina|18|JavaScript
+Juan|calle falsa|33-50424540-9|Femenino|Chile|18|JavaScript
