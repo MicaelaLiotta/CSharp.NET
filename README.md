@@ -1,4 +1,4 @@
-Este proyecto es una aplicación para gestionar la lista de ingresantes a distintos cursos. Los datos se pueden guardar en un archivo .txt, y también se soporta la serialización en formato XML y JSON. Además, los datos de los cursos se almacenan en una base de datos SQL.
+Este proyecto es una aplicación para gestionar la lista de ingresantes a distintos cursos. Los datos se pueden guardar en un archivo .txt, y también se soporta la serialización en formato XML y JSON. Además, los datos de los cursos se almacenan en una base de datos SQL Server.
 
 Tecnologías Utilizadas:
 - Lenguaje de Programación: C#
